@@ -4,15 +4,15 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Kernel by aryannn999 @ xda-developers
+kernel.string=Redmi Note 8 Pro (Begonia)
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=sweet
-device.name2=sweetin
-supported.versions=11 - 15
+device.name1=begonia
+device.name2=begoniain
+supported.versions=
 supported.patchlevels=
 supported.vendorpatchlevels=
 '; } # end properties
